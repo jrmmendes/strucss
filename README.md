@@ -1,2 +1,2 @@
 # strucss
-Strucss is a simples CSS boilerplate generator.  At this moment, it only suports ITCSS.
+Strucss is a simple CSS boilerplate generator.  At this moment, it only suports ITCSS.
